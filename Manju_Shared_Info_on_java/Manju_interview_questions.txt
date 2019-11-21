@@ -1,0 +1,83 @@
+Multi Threading:
+
+    1) Imp of using Volatile keyword?
+    2) Program to form DeadLock in multi threading and how to solve DeadLock situation?
+    3) What are Java Multi threading and Concurrency Best Practices
+    4) How do you share data between two threads in Java?
+    5) print even and odd numbers alternatively using 2 threads
+    6) print vowel and consonants  alternatively using 2 threads
+    7) Countdown Latch and Cyclic barrier
+    8) Implement singleton with Thread safe
+    9) Counting Semaphore
+    10) Sample program to demonstrate synchronization ( Multi threading scenarios)
+    11) Lock Interface
+    12) ENUM
+    13) Executor framework
+    14) Design and implement traffic signal system using executor framework.
+    15) Optimistic Locking and Pessimistic Locking
+   
+OOPS:
+
+    1) Polymorphism
+    2) Abstraction
+    3) How to implement custom Serialization
+    4) Implement Immutable class without final keyword
+    5) Implementing the Cache with Java
+    6) Why isn’t String‘s .length() accurate?
+    7) Garbage collector and it's algorithms
+    8) Class loader subsystem
+    9) Design benefits with OOPS
+    10) Best data structure to store the password value in your application? ( should take care space complexity, serialization and multi threading)
+    11) Get the third largest number
+    12) What's the difference between Closeable and AutoCloseable?
+    13) Bloom Filter
+   
+Exception Handling:
+
+    1) Suppressed exceptions and how to catch them?
+    2) Implement user defined exception with custom message text
+    3) NullPointerException and StackOverflowError
+    4) Design Pattern used for Exception Handling
+    5) What is unreachable catch block error?
+
+Collection Framework:
+    1) Internal Implementation of Hashmap, Hashset
+    2) Hash collision
+    3) Implement hashmap in Java without collection classes
+    4) Weak and Identity Hashmap
+    5) Sort user defined objects with multiple attributes
+    6) concurrentCollectionClasses (CopyOnWriteArrayList and ConcurrentHashMap)
+    7) reference equality and object equality
+   
+Java 8:
+    1) Lambda Expression
+    2) Functional interfaces
+    3) Streams
+    4) Default and static methods in interfaces
+    5) Behavior parameterization
+    6) Map and Flat map
+    7) Simple logics for sorting the integer or strings
+    8) How do I get distinct words from all text files in a folder using JAVA?
+   
+
+Data Structures:
+
+    1) Linked List basic operations ( Insert at specific position, Loop detection, reverse list)
+    2) String data structure ( Pattern Search, swap, subsequence, num of occurrences)
+    3) Search Alg ( Implement any one search alg wrt time and space complexity )
+    4) Sort Alg ( Merge and Quick sort)
+    5) Some simple programs on arrays and strings
+    6) Largest Sum Contiguous Subarray
+    7) Find the smallest window in a string containing all characters of another string
+    8) Naive Pattern Searching
+   
+Design Patterns:
+    1) Hotel Reservation System
+    2) Ranking System
+    3) Traffic system
+    4) Observer Pattern ( JMS queue)
+   
+   
+Some questions on Network domain and project architecture
+ServletConfig and ServletContext
+Servlet tag Libraries  
